@@ -1,141 +1,70 @@
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-# [Fitness Guru - An Exercise Fiteness React App  🔗](https://fitness-guru-app.netlify.app/)
+In the project directory, you can run:
 
-- A React app utilizing Material-UI for UI components and Framer Motion for animations.
+### `npm start`
 
-- Integrated two APIs from Rapid API : ExerciseDB API to fetch exercise data and YouTubeOption API for sourcing exercise specific video recommendations.
-## Features
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Easy to navigate and visually appealing.
-- Browse exercises by type (e.g., back, cardio, chest).
-- Users can search for exercises within the categorized lists.
-- View step-by-step instructions and guidelines for each exercise.
-- Discover similar exercises to diversify workouts.
-- Access recommended instructional YouTube videos related to each exercise.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Live Link
-https://fitness-guru-app.netlify.app/
-## Screenshots
+### `npm test`
 
-![App Screenshot1](https://github.com/Adnan7209/assests/blob/main/FitFusion1.png)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-![App Screenshot2](https://github.com/Adnan7209/assests/blob/main/fitFusion2.png)
+### `npm run build`
 
-![App Screenshot3](https://github.com/Adnan7209/assests/blob/main/fitFusion3.png)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-![App Screenshot4](https://github.com/Adnan7209/assests/blob/main/fitFusion4.png)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Run Locally
+### `npm run eject`
 
-Clone the project
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-```bash
-  git clone https://github.com/PriyanshuPatel02/FitnessGuruApp
-```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Go to the project directory
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```bash
-  cd FitnessGuruApp
-```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Install dependencies
+## Learn More
 
-```bash
-  npm install
-```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Start the server
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-```bash
-  npm run dev
-```
+### Code Splitting
 
-Open your browser and go to http://localhost:3002
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## APIs Used
+### Analyzing the Bundle Size
 
-### ExerciseDB API
-- **API URL**: [ExerciseDB API on RapidAPI](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
-- **Description**: This API provides detailed information about various exercises including categories, target muscles, and equipment used.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### YouTube Search and Download API
-- **API URL**: [YouTube Search and Download API on RapidAPI](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download)
-- **Description**: This API allows searching and downloading YouTube videos, which is used in this project to fetch instructional videos related to exercises.## Tech Stack
+### Making a Progressive Web App
 
-### Frontend
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
-- ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui)
+### Advanced Configuration
 
-### Animation Libraries
-- ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat-square&logo=framer) 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### npm Packages
-- **react-type-animation**: [![npm package](https://img.shields.io/npm/v/react-type-animation.svg?style=flat-square)](https://www.npmjs.com/package/react-type-animation)
+### Deployment
 
-## Dependencies
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Key libraries and packages used in this project:
+### `npm run build` fails to minify
 
-- **UI Components & Styles**: `@mui/material`, `@mui/icons-material`, `@emotion/react`, `@emotion/styled`
-- **HTTP Client**: `axios`
-- **Animations**: `framer-motion`
-- **Routing**: `react-router-dom`
-- **Type Animations**: `react-type-animation`
-- **Loading Indicators**: `react-loader-spinner`
-- **Scrolling Menu**: `react-horizontal-scrolling-menu`
-- **Intersection Observer**: `react-intersection-observer`
-## Development Tools
-
-- **Vite**: Modern frontend build tool enabling fast refreshing and optimized builds.
-- **ESLint**: Ensures code quality and consistency across the project.
-- **TypeScript Definitions**: Includes `@types/react` and `@types/react-dom` for TypeScript support.
-- **React Refresh**: Hot reloading during development via `eslint-plugin-react-refresh`.
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`VITE_REACT_APP_RAPID_API_KEY = 'your_rapid_api_key'`
-
-
-## Acknowledgments
-
-This project was inspired by and references the following resources:
-
-- **YouTube Video**: [Building a Fitness App](https://youtu.be/KBpoBc98BwM?si=cKe6ThKnRXMVpDuJ) by Adrian Hajdin
-- **GitHub Repository**: [Project Fitness App](https://github.com/adrianhajdin/project_fitness_app) by Adrian Hajdin
-## Lessons Learned
-
-- **React Fundamentals:** Deepened understanding of React, enhancing my ability to write and optimize React code.
-- **Component Interaction:** Mastered the use of React hooks like `useState` and `useEffect` for state management and side effects.
-- **API Integration:** Gained experience in fetching and handling data through APIs.
-- **UI Components:** Developed skills in implementing Material-UI components for a consistent and responsive interface.
-- **Animations:** Implemented motion components from Framer Motion in the hero section for dynamic user interactions.
-- **Data Handling:** Learned to effectively render dynamic data using JavaScript’s `map` function.
-
-## Project Challenges and Solutions
-
-### Data Parsing
-- **Improved Understanding of API Responses:** Utilized a JSON formatter to enhance the mapping and utilization of the fetched data, making the integration process smoother and more effective.
-
-### API Rate Limit Management
-- **Optimizing API Calls:** Solved rate limit issues by conditionally triggering API calls only when necessary (on state changes), which improved both the performance and efficiency of the application.
-
-### Layout Responsiveness
-- **Responsive Design Challenges:** Addressed responsiveness issues across various devices by employing CSS media breakpoints, ensuring a consistent and adaptive user experience.
-
-### Horizontal Scrollbar Responsiveness
-- **Scrollbar Adaptability:** Tackled challenges with the horizontal scrollbar's responsiveness by applying a trial and error approach with CSS adjustments, achieving optimal functionality on different screens.
-
-## Author
-
-- [@PriyanshuPatel02](https://github.com/PriyanshuPatel02)
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
