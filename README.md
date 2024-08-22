@@ -18,11 +18,17 @@ https://fitfusion2024.netlify.app/
 
 ![App Screenshot1](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/IMG_20240822_153609%20(1).jpg)
 
-![App Screenshot2](https://github.com/Adnan7209/assests/blob/main/fitFusion2.png)
+![App Screenshot2](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/2nd.jpg)
 
-![App Screenshot3](https://github.com/Adnan7209/assests/blob/main/fitFusion3.png)
+![App Screenshot3](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/3rd.jpg)
 
-![App Screenshot4](https://github.com/Adnan7209/assests/blob/main/fitFusion4.png)
+![App Screenshot4](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/4th.jpg)
+![App Screenshot5](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/5th.jpg)
+![App Screenshot5](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/6th.jpg)
+![App Screenshot5](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/7th.jpg)
+![App Screenshot5](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/8th.jpg)
+![App Screenshot5](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/9th.jpg)
+
 
 
 ## Run Locally
