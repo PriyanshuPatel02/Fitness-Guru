@@ -16,7 +16,7 @@
 https://fitfusion2024.netlify.app/
 ## Screenshots
 
-![App Screenshot1](https://github.com/Adnan7209/assests/blob/main/FitFusion1.png)
+![App Screenshot1](Image/IMG_20240822_153609 (1).jpg)
 
 ![App Screenshot2](https://github.com/Adnan7209/assests/blob/main/fitFusion2.png)
 
