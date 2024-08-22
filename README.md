@@ -13,7 +13,9 @@
 - Access recommended instructional YouTube videos related to each exercise.
 
 ## Live Link
-https://fitfusion2024.netlify.app/
+https://fitness-guru-app.netlify.app/
+
+
 ## Screenshots
 
 ![App Screenshot1](https://github.com/PriyanshuPatel02/FitnessGuruApp/blob/main/Image/IMG_20240822_153609%20(1).jpg)
