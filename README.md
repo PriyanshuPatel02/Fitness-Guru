@@ -1,7 +1,7 @@
 
 
 
-# [Fit Fusion - An Exercise Fiteness React App  🔗](https://fitness-guru-app.netlify.app/)
+# [Fitness Guru - An Exercise Fiteness React App  🔗](https://fitness-guru-app.netlify.app/)
 
 - A React app utilizing Material-UI for UI components and Framer Motion for animations.
 
@@ -33,13 +33,13 @@ https://fitness-guru-app.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Adnan7209/FitnessGymApp
+  git clone https://github.com/PriyanshuPatel02/FitnessGuruApp
 ```
 
 Go to the project directory
 
 ```bash
-  cd FitnessGymApp
+  cd FitnessGuruApp
 ```
 
 Install dependencies
@@ -54,7 +54,7 @@ Start the server
   npm run dev
 ```
 
-Open your browser and go to http://localhost:5173
+Open your browser and go to http://localhost:3002
 
 ## APIs Used
 
@@ -133,7 +133,7 @@ This project was inspired by and references the following resources:
 
 ## Author
 
-- [@Adnan7209](https://github.com/PriyanshuPatel02)
+- [@PriyanshuPatel02](https://github.com/PriyanshuPatel02)
 
 
 ## License
