@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Adnan7209/FitnessGymApp/blob/main/src/assets/images/logo2.png" alt="Logo" />
-</div>
+
 
 
 # [Fit Fusion - An Exercise Fiteness React App  🔗](https://fitness-guru-app.netlify.app/)
