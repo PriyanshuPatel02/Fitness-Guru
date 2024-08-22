@@ -3,7 +3,7 @@
 </div>
 
 
-# [Fit Fusion - An Exercise Fiteness React App  🔗](https://fitfusion2024.netlify.app/) 
+# [Fit Fusion - An Exercise Fiteness React App  🔗](https://fitness-guru-app.netlify.app/)
 
 - A React app utilizing Material-UI for UI components and Framer Motion for animations.
 
@@ -70,8 +70,7 @@ Open your browser and go to http://localhost:5173
 
 ### Frontend
 
-- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) 
-- ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat-square&logo=vite) 
+- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
 - ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui)
 
 ### Animation Libraries
@@ -79,6 +78,7 @@ Open your browser and go to http://localhost:5173
 
 ### npm Packages
 - **react-type-animation**: [![npm package](https://img.shields.io/npm/v/react-type-animation.svg?style=flat-square)](https://www.npmjs.com/package/react-type-animation)
+
 ## Dependencies
 
 Key libraries and packages used in this project:
@@ -135,7 +135,7 @@ This project was inspired by and references the following resources:
 
 ## Author
 
-- [@Adnan7209](https://github.com/Adnan7209)
+- [@Adnan7209](https://github.com/PriyanshuPatel02)
 
 
 ## License
